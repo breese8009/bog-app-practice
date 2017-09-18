@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# REFLECTION
 
-Things you may want to cover:
+-The first 2 times I found myself basically copy and pasting from the instructions and running into problems. By the 3rd time, I REALLY started to understand what I was doing and going about it on my own. 4th Time I only went back for a couple of the set up steps and the rest I was able to go through on my own as far as the routes, controllers and html.erb's. I also watch A LOT of tutotials all weekend and have a much better understanding of rails.
 
-* Ruby version
 
-* System dependencies
+# TIPS
 
-* Configuration
+-Don't over think all the files, their not that bad once you get into it.
 
-* Database creation
+-The routes are the same as express/node, just diff syntax
 
-* Database initialization
 
-* How to run the test suite
+# BEST TIME
 
-* Services (job queues, cache servers, search engines, etc.)
+- My best time was 47 minutes, with minimal help from documentation 
 
-* Deployment instructions
-
-* ...
